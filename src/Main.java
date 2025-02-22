@@ -83,6 +83,7 @@ public class Main {
             try {
                 Scanner scanner = new Scanner(System.in);
 
+
                 System.out.println("Введите логин");
                 String login = scanner.nextLine();
                 System.out.println("Введите пароль");
